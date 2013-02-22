@@ -34,7 +34,7 @@ For example:
 
 > Proceed 1km
 
-> Your destination is on your left.
+> Your destination is on your left, next to the Capital Hotel.
 
 Features:
 * Navigation directions
