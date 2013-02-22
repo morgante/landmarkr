@@ -36,6 +36,10 @@ For example:
 
 > Your destination is on your left.
 
+Features:
+* Navigation directions
+* Display in alternate languages (Urdu, Arabic)
+
 ### Version 4
 Integrate to Twillio, so you can SMS a location search and get back the landmark
 nearby your desination and/or landmark-bsased navigation.
