@@ -31,6 +31,6 @@ For example:
 
 > Your destination is on your left.
 
-### Version 3
+### Version 4
 Integrate to Twillio, so you can SMS a location search and get back the landmark
 nearby your desination and/or landmark-bsased navigation.
