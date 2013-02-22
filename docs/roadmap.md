@@ -10,6 +10,7 @@ When you have selected a location, either by pinning or searching, the app will 
 
 For example:
 > NYU Abu Dhabi
+
 > Behind the Mosque in the Old Fish Market
 
 You would then convey this information to another party who needs to find it (such as a delivery person or otherwise).
@@ -21,9 +22,13 @@ Once clicked, it will landmark-based navigation directions to reach your chosen 
 
 For example:
 > At Etisalat towers, turn left.
+
 > Proceed 2km
+
 > At the mosque, turn right.
+
 > Proceed 1km
+
 > Your destination is on your left.
 
 ### Version 3
