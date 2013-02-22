@@ -16,6 +16,11 @@ For example:
 You would then convey this information to another party who needs to find it (such as a delivery person or otherwise).
 If they don't recognize the landmark directions, there's a button to "try again" which will use the next most reliable landmark.
 
+Features:
+* Find mosque
+* Find area
+* Find orientation between "road" or another landmark
+
 ### Version 2
 The same as version 1, except there's a button to click for "navigation directions."
 Once clicked, it will landmark-based navigation directions to reach your chosen location.
