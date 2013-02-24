@@ -42,6 +42,7 @@ html, body, #map, #panel {
 /* ==CHECKBOX */
 .switch {
 	position: relative;
+	right:-100px;
 }
 .switch label.desc {
 	position: absolute;
@@ -58,7 +59,7 @@ html, body, #map, #panel {
 	line-height: 28px;
 }
 .onoffswitch {
-    position: relative; width: 103px;
+    position: relative; width: 123px;
     -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
 		margin-top: 5px;
 }
@@ -72,6 +73,7 @@ html, body, #map, #panel {
     border: 2px solid #666666;
 		border-radius: 30px;
 }
+
 .onoffswitch-inner {
     width: 200%; margin-left: -100%;
     -moz-transition: margin 0.3s ease-in 0s; -webkit-transition: margin 0.3s ease-in 0s;
@@ -89,12 +91,12 @@ html, body, #map, #panel {
 }
 
 .onoffswitch-inner:before {
-    content: "Start";
+    content: "Origin";
     padding-left: 15px;
     background-color: #6BB2ED; color: #FFFFFF;
 }
 .onoffswitch-inner:after {
-    content: "Finish";
+    content: "Destination";
     padding-right: 15px;
     background-color: #FFFFFF; color: #666666;
     text-align: right;
@@ -103,7 +105,7 @@ html, body, #map, #panel {
     width: 30px; margin: 0px;
     background: #FFFFFF;
     border: 2px solid #666666; border-radius: 30px;
-    position: absolute; top: -2px; bottom: -2px; right: 69px;
+    position: absolute; top: -2px; bottom: -2px; right: 89px;
     -moz-transition: all 0.3s ease-in 0s; -webkit-transition: all 0.3s ease-in 0s;
     -o-transition: all 0.3s ease-in 0s; transition: all 0.3s ease-in 0s; 
 }
